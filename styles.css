@@ -1,0 +1,26 @@
+
+/* Shows border of this element */
+
+h1 {
+  margin: 30px;         /* outer space around the heading */
+  padding: 10px;        /* inner space inside the border */
+  border: 2px solid blue;
+}
+
+/* Shows padding and border */
+
+p {
+  margin: 20px;         
+  padding: 15px;        
+  border: 2px dashed green;
+}
+
+/* Shows margin between elements */
+
+button {
+  margin: 120px;         
+  padding: 10px 20px;   
+  border: 2px solid red;
+  background-color: lightyellow;
+  cursor: pointer;
+}
